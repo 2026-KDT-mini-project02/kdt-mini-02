@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./FliterSection.css";
+import "./FilterSection.css";
 
 const CATEGORIES = ["한식", "중식", "일식", "양식"];
 const SITUATIONS = ["혼밥", "회식", "데이트", "야식"];
