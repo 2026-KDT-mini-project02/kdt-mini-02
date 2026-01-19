@@ -1,5 +1,6 @@
-import "./App.css";
-import { useState } from "react";
+import './App.css';
+import { useState } from 'react';
+import MenuCard from "./MenuCard";
 
 import Filter from "./components/filterSection/FilterSection.jsx";
 import RcmdBtn from "./components/recommendButton/RecommendButton.jsx";
