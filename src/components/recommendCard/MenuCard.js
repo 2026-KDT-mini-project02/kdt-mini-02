@@ -37,7 +37,7 @@ export default function MenuCard() {
         <button className="btn retry" onClick={randomMenu}>
           다시 추천
         </button>
-        <button className="btn like">싫어요</button>
+        <button className="btn nolike">싫어요</button>
       </div>
     </div>
   );
